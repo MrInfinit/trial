@@ -1,0 +1,12 @@
+Field,Description
+Title,Game title
+Console,Console the game was released for
+Genre,Genre of the game
+Publisher,Publisher of the game
+Critic_Score,Metacritic score (out of 10)
+Total_Sales,Global sales of copies in millions
+NA_Sales,North American sales of copies in millions
+JP_Sales,Japanese sales of copies in millions
+PAL_Sales,European & African sales of copies in millions
+Other_Sales,Rest of world sales of copies in millions
+Release_Date,Date the game was released on
