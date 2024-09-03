@@ -7,8 +7,8 @@ import streamlit as st
 from collections import OrderedDict
 
 # Load data
-pathofmainfile = r'School_Proj\vgchartz-2024.csv'
-pathofabbriviations = r'School_Proj\data_dictionary.csv'
+pathofmainfile = r'School_Proj/vgchartz-2024.csv'
+pathofabbriviations = r'School_Proj/data_dictionary.csv'
 
 df = pd.read_csv(pathofmainfile)
 vg_df = df.ffill()
